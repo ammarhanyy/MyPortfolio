@@ -5,9 +5,9 @@ import { motion } from 'framer-motion';
 import { FiCode, FiDatabase, FiSmartphone, FiCloud } from 'react-icons/fi';
 
 const skills = [
-  { name: 'Flutter', icon: <FiSmartphone />, category: 'Mobile Development' },
-  { name: 'Dart', icon: <FiCode />, category: 'Programming Languages' },
-  { name: 'Firebase', icon: <FiCloud />, category: 'Backend & Database' },
+  { name: 'React native', icon: <FiSmartphone />, category: 'Mobile Development' },
+  { name: 'JavaScript/Typescript', icon: <FiCode />, category: 'Programming Languages' },
+  { name: 'MongoDB', icon: <FiCloud />, category: 'Backend & Database' },
   { name: 'SQL', icon: <FiDatabase />, category: 'Backend & Database' },
 ];
 
@@ -35,13 +35,13 @@ const About = () => {
             className="prose dark:prose-invert max-w-none"
           >
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-              I'm a passionate Mobile App Developer with over 5 years of experience in building
+              I'm a passionate Full Stack Developer with over 2 years of experience in building
               beautiful and functional applications. My journey in tech started with a curiosity
               about how things work, and it has evolved into a career where I create solutions
               that make a difference in people's lives.
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              I specialize in Flutter development and have worked with various clients across
+              I specialize in Full Stack development from simple web applications to complex mobile Applications and have worked with various clients across
               the MENA region, helping them bring their ideas to life. When I'm not coding,
               you can find me exploring new technologies, contributing to open-source projects,
               or mentoring aspiring developers.

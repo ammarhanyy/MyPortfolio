@@ -7,29 +7,27 @@ import { FiGithub, FiExternalLink } from 'react-icons/fi';
 
 const projects = [
   {
-    title: 'E-Commerce Mobile App',
-    description: 'A full-featured e-commerce mobile application built with Flutter and Firebase.',
-    image: '/project1.jpg',
-    technologies: ['Flutter', 'Firebase', 'Dart'],
-    github: 'https://github.com/username/project1',
-    demo: 'https://project1-demo.com',
-  },
-  {
-    title: 'Task Management App',
-    description: 'A productivity app for managing tasks and projects with real-time collaboration.',
-    image: '/project2.jpg',
-    technologies: ['Flutter', 'Firebase', 'Provider'],
-    github: 'https://github.com/username/project2',
-    demo: 'https://project2-demo.com',
-  },
-  {
-    title: 'Social Media Dashboard',
-    description: 'A dashboard for managing social media accounts and analyzing performance metrics.',
-    image: '/project3.jpg',
-    technologies: ['Flutter', 'Firebase', 'Charts'],
+    title: 'Reservation System Mobile Application',
+    description: 'A Reservation System Mobile Application for the Egyptian Monorail',
+    image: '/Picture3.png',
+    technologies: ['React Native', 'NodeJS', 'MongoDB'],
     github: 'https://github.com/username/project3',
     demo: 'https://project3-demo.com',
   },
+  {
+    title: 'Professoional E-commerce Brand Website ',
+    description: 'A full-featured e-commerce website built with wordpress and woocommerce.',
+    image: '/Picture1.png',
+    technologies: ['Wordpress', 'WooCommerce', 'PHP']
+  },
+  {
+    title: 'E-Commerce Packaging Website',
+    description: 'A full-featured e-commerce Packaging solution',
+    image: '/picture2.png',
+    technologies: ['Wordpress', 'WooCommerce', 'PHP'],
+    demo: 'https://www.wrapswift.net'
+  },
+
 ];
 
 const Projects = () => {

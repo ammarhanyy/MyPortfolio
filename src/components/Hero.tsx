@@ -20,11 +20,11 @@ const Hero = () => {
               Hi, I'm <span className="text-blue-600 dark:text-blue-400">عمار هاني</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
-              Mobile App Developer | Freelancer | Building for MENA & beyond
+              Software Developer | Freelancer | Building for MENA & beyond
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <a
-                href="/resume.pdf"
+                href="/MY CV.pdf"
                 download
                 className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition-colors"
               >
@@ -48,7 +48,7 @@ const Hero = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400">
               <Image
-                src="/profile-placeholder.jpg"
+                src="/ammarimg.jpg"
                 alt="Profile Picture"
                 fill
                 className="object-cover"

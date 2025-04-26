@@ -24,10 +24,9 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: <FiGithub />, url: 'https://github.com/username' },
-    { icon: <FiLinkedin />, url: 'https://linkedin.com/in/username' },
-    { icon: <FiTwitter />, url: 'https://twitter.com/username' },
-    { icon: <FiMail />, url: 'mailto:email@example.com' },
+    { icon: <FiGithub />, url: 'https://github.com/ammarhanyy' },
+    { icon: <FiLinkedin />, url: 'https://linkedin.com/in/Ammar Hany' },
+    { icon: <FiMail />, url: 'Gmail:ammarhanyyy@gmail.com' },
   ];
 
   return (
