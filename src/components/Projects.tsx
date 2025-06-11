@@ -9,8 +9,8 @@ const projects = [
   {
     title: 'Reservation System Mobile Application',
     description: 'A Reservation System Mobile Application for the Egyptian Monorail',
-    image: '/Picture3.png',
-    technologies: ['React Native', 'NodeJS', 'MongoDB'],
+    image: '/Mono.jpg',
+    technologies: ['Flutter', 'Express', 'MongoDB'],
     github: 'https://github.com/username/project3',
     demo: 'https://project3-demo.com',
   },
@@ -27,7 +27,6 @@ const projects = [
     technologies: ['Wordpress', 'WooCommerce', 'PHP'],
     demo: 'https://www.wrapswift.net'
   },
-
 ];
 
 const Projects = () => {

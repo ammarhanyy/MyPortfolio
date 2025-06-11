@@ -5,10 +5,12 @@ import { motion } from 'framer-motion';
 import { FiCode, FiDatabase, FiSmartphone, FiCloud } from 'react-icons/fi';
 
 const skills = [
-  { name: 'React native', icon: <FiSmartphone />, category: 'Mobile Development' },
+  { name: 'Flutter ', icon: <FiSmartphone />, category: 'Mobile Development' },
   { name: 'JavaScript/Typescript', icon: <FiCode />, category: 'Programming Languages' },
   { name: 'MongoDB', icon: <FiCloud />, category: 'Backend & Database' },
   { name: 'SQL', icon: <FiDatabase />, category: 'Backend & Database' },
+  { name: 'Node.js', icon: <FiCode />, category: 'Backend Development' },
+  { name: 'Express', icon: <FiCode />, category: 'Backend Development' },
 ];
 
 const About = () => {
