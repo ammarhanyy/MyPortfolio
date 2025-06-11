@@ -9,7 +9,7 @@ const projects = [
   {
     title: 'Reservation System Mobile Application',
     description: 'A Reservation System Mobile Application for the Egyptian Monorail',
-    image: '/Mono.jpg',
+    image: '/mono.jpg',
     technologies: ['Flutter', 'Express', 'MongoDB'],
     github: 'https://github.com/username/project3',
     demo: 'https://project3-demo.com',
@@ -17,13 +17,13 @@ const projects = [
   {
     title: 'Professoional E-commerce Brand Website ',
     description: 'A full-featured e-commerce website built with wordpress and woocommerce.',
-    image: '/Picture1.png',
+    image: '/pic1.png',
     technologies: ['Wordpress', 'WooCommerce', 'PHP']
   },
   {
     title: 'E-Commerce Packaging Website',
     description: 'A full-featured e-commerce Packaging solution',
-    image: '/picture2.png',
+    image: '/pic2.png',
     technologies: ['Wordpress', 'WooCommerce', 'PHP'],
     demo: 'https://www.wrapswift.net'
   },
