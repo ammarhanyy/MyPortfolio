@@ -6,6 +6,7 @@ import { FiCode, FiDatabase, FiSmartphone, FiCloud } from 'react-icons/fi';
 
 const skills = [
   { name: 'Flutter ', icon: <FiSmartphone />, category: 'Mobile Development' },
+  { name : `python`, icon: <FiCode />, category: 'Programming Languages' },
   { name: 'JavaScript/Typescript', icon: <FiCode />, category: 'Programming Languages' },
   { name: 'MongoDB', icon: <FiCloud />, category: 'Backend & Database' },
   { name: 'SQL', icon: <FiDatabase />, category: 'Backend & Database' },
@@ -37,7 +38,7 @@ const About = () => {
             className="prose dark:prose-invert max-w-none"
           >
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-              I'm a passionate Full Stack Developer with over 2 years of experience in building
+              I'm a passionate Software Engineer with over 2 years of experience in building
               beautiful and functional applications. My journey in tech started with a curiosity
               about how things work, and it has evolved into a career where I create solutions
               that make a difference in people's lives.

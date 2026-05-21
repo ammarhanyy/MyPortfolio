@@ -20,7 +20,7 @@ const Hero = () => {
               Hi, I'm <span className="text-blue-600 dark:text-blue-400">عمار هاني</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
-              Software Developer | Freelancer | Building for MENA & beyond
+             AI Software Engineer | Freelancer | Building for MENA & beyond
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <a
